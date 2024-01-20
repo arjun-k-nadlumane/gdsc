@@ -6,7 +6,7 @@ import book from "./assets/028-book.png"
 const Second = () => {
     return (
         <div className='section-2 relative'>
-            <img src={bg} alt="" className='absolute top-0'/>
+            {/* <img src={bg} alt="" className='absolute top-0'/> */}
             <div>
                 <div>
                     <span className='heading'>Bali Travel Time</span>
